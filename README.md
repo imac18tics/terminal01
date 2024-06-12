@@ -1,3 +1,3 @@
 # terminal01
-Sebastian Hernandez Angeles
+Sebastian Hernandez Angeles.
 
